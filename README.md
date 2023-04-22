@@ -16,6 +16,7 @@ Discord Bot  - A Discord bot is an automated code/program that runs specific act
 ## Contributing
 
 Bug reports and/or pull requests are welcome
+!l[Logogif](https://i.gifer.com/3jnq.gif)
 
 
 ## License
