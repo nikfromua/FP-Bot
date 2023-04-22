@@ -19,7 +19,6 @@ Bug reports and/or pull requests are welcome
 
 ![Logogif](https://i.gifer.com/3jnq.gif)
 
-
 ## License
 
 The module is available as open source under the terms of the [MIT License](https://github.com/nikfromua/FP-Bot/blob/main/LICENSE)
