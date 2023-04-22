@@ -20,5 +20,5 @@ Bug reports and/or pull requests are welcome
 
 ## License
 
-The module is available as open source under the terms of the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
+The module is available as open source under the terms of the [MIT License](https://github.com/nikfromua/FP-Bot/blob/main/LICENSE)
 
