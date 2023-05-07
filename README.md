@@ -6,7 +6,7 @@
 
 ![Logo](https://1000logos.net/wp-content/uploads/2021/06/Discord-logo.png)
 
-Discord Bot  - A Discord bot is an automated code/program that runs specific activities in your Discord channel, such as moderation and offering options to members.
+Discord  Bot  - A Discord bot is an automated code/program that runs specific activities in your Discord channel, such as moderation and offering options to members.
 
 ![Logo1](https://i.redd.it/tried-to-make-the-discord-clyde-logo-more-similar-to-the-v0-g2bha52fh9v91.png?s=857a15558e51808ae5676c9c4b50706142f12ce9)
 
